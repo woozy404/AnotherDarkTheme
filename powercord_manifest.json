@@ -1,0 +1,8 @@
+{
+    "name": "Another Dark Theme",
+    "version": "0.0.1",
+    "license": "all",
+    "author": "woozy",
+    "theme": "source.css",
+    "description": "We all need another dark theme for discord"
+}
