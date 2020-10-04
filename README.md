@@ -1,5 +1,7 @@
 # AnotherDarkTheme
 
+**THIS THEME IS A WORK IN PROGRESS AND IS NO WHERE NEAR FINISHED!!**
+
 Another Discord dark theme! Why? Because why not!
 
 # Installation
