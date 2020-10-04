@@ -12,6 +12,11 @@ Another Discord dark theme! Why? Because why not!
 - Type: ``cd themes``
 - Type: ``git clone {url}``
 
+# Known Bugs
+- Spotify Glitches
+- Somethings are missing
+- Animations
+
 # Preview
 
 [soon]
